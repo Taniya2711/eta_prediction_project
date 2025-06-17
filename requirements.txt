@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+lightgbm
+ngboost
+shap
+scikit-learn
+ortools
+geopy
+folium
+streamlit-folium
